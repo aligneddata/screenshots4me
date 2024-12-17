@@ -1,0 +1,7 @@
+*pyc
+files_in
+files_out
+venv
+test
+.DS_Store
+logfile
