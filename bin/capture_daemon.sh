@@ -5,6 +5,7 @@ if [ "$1" != '' ]; then
 else
 	delay=10
 fi
+source venv/bin/activate
 
 while true; do
 	bash -x ./capture_once.sh
